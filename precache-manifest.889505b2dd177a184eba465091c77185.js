@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f552bef536c9f69a0058d2c78100d5b4",
+    "revision": "f26674a94e93932ce6ff90ae3c684c05",
     "url": "/collegedunia-clone/index.html"
   },
   {
-    "revision": "4fc320ec6de02c025f0a",
+    "revision": "74b25c62c12667681a9d",
     "url": "/collegedunia-clone/static/css/main.d4c09c47.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/collegedunia-clone/static/js/2.5ec227e5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4fc320ec6de02c025f0a",
-    "url": "/collegedunia-clone/static/js/main.6fc8436f.chunk.js"
+    "revision": "74b25c62c12667681a9d",
+    "url": "/collegedunia-clone/static/js/main.f5b568bb.chunk.js"
   },
   {
     "revision": "c131e06d4ba124db6a08",
