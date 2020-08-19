@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f26674a94e93932ce6ff90ae3c684c05",
+    "revision": "a7f62e37cd883c06d33e1ba55dde5b4e",
     "url": "/collegedunia-clone/index.html"
   },
   {

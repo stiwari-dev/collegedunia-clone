@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/collegedunia-clone/precache-manifest.889505b2dd177a184eba465091c77185.js"
+  "/collegedunia-clone/precache-manifest.6ec30ed5730267639fd85561fe85459e.js"
 );
 
 self.addEventListener('message', (event) => {
